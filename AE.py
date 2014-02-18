@@ -1,4 +1,4 @@
-from pyradox.game import Nation, Relation, Opinion, Game
+from pyradox.game.game import Game
 
 nation = 'ENG'
 
